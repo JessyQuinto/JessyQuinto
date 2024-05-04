@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Jessy Quinto</h1>
 <h3 align="center">Desarrollador .NET apasionado y en constante aprendizaje desde Colombia</h3>
 
-- 🔭 Actualmente estoy trabajando en mi proyecto con **.NET MAUI y Azure**.
-- 🌱 Continuamente aprendiendo sobre **.NET y Azure** para mejorar mis habilidades.
-- 👯 Busco colaborar en proyectos de **front-end y back-end** que desafíen mi creatividad y conocimiento.
-- 📫 Puedes contactarme en: **quintojessy@gmail.com**.
-- ⚡ En mi tiempo libre disfruto de la **lectura, el baloncesto y por supuesto, programar**.
+- 🖥️ Actualmente estoy trabajando en mi proyecto con **.NET MAUI y Azure.**
+- 🚀 Continuamente aprendiendo sobre **.NET y Azure** para mejorar mis habilidades.
+- 🤝 Busco colaborar en proyectos de **front-end y back-end** que desafíen mi creatividad y conocimiento.
+- ✉️ Puedes contactarme en: **quintojessy@gmail.com.**
+- 🎮 En mi tiempo libre disfruto de la **lectura, video juegos,  el baloncesto y por supuesto, programar.**
 
 <h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
