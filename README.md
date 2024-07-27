@@ -26,7 +26,7 @@
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
     <!-- Nuevo botón para el portfolio -->
-    <a href="https://jessyquinto.github.io/loay-portfolio-main/" target="_blank">
+    <a href="https://jessyquinto.io/loay-portfolio-main/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-5843BE?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio Badge"/>
     </a>
   </p>
