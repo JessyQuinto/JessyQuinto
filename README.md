@@ -7,12 +7,13 @@
 </head>
 <body>
   <h1 align="center">Hola, soy Jessy Quinto</h1>
-  <h3 align="center">Desarrollador especializado en .NET, comprometido con la mejora continua y la excelencia técnica</h3>
+  <h3 align="center">Desarrollador especializado en .NET, con enfoque en soluciones en la nube y herramientas DevOps</h3>
 
   <ul>
-    <li>Actualmente desarrollo un proyecto utilizando <strong>.NET MAUI</strong> y <strong>Azure</strong>.</li>
-    <li>En constante formación en tecnologías como <strong>.NET</strong> y <strong>Azure</strong> para fortalecer mis competencias profesionales.</li>
-    <li>Interesado en colaborar en proyectos de <strong>desarrollo front-end y back-end</strong> que representen retos técnicos y fomenten la innovación.</li>
+    <li>Actualmente me encuentro preparándome para la certificación <strong>AZ-204: Developing Solutions for Microsoft Azure</strong>.</li>
+    <li>Cuento con una base sólida en <strong>C# y .NET</strong>, y experiencia práctica en <strong>Angular</strong> y <strong>React</strong> para el desarrollo de interfaces de usuario modernas.</li>
+    <li>Estoy especialmente interesado en el desarrollo de soluciones en la nube, así como en la automatización y optimización de procesos mediante herramientas <strong>DevOps</strong>.</li>
+    <li>Me mantengo en constante aprendizaje, actualizando mis conocimientos en tecnologías emergentes y buenas prácticas de ingeniería de software.</li>
     <li>Contacto: <strong><a href="mailto:quintojessy@gmail.com">quintojessy@gmail.com</a></strong></li>
     <li>Entre mis intereses personales se encuentran la lectura, los videojuegos, el baloncesto y el desarrollo de software.</li>
   </ul>
@@ -31,7 +32,7 @@
 
   <h3>Información adicional</h3>
   <ul>
-    <li>He participado en iniciativas que integran <strong>.NET MAUI</strong> con servicios de <strong>Azure</strong>, explorando arquitecturas modernas en la nube.</li>
+    <li>He trabajado en proyectos que integran <strong>.NET</strong> con servicios de <strong>Azure</strong>, explorando arquitecturas modernas en la nube.</li>
     <li>La lectura forma parte fundamental de mi desarrollo personal y profesional.</li>
     <li>Practico deportes como el baloncesto y disfruto ocasionalmente de actividades al aire libre.</li>
     <li>Me motiva colaborar en proyectos de código abierto y contribuir activamente a la comunidad de desarrolladores.</li>
@@ -40,6 +41,6 @@
   <p align="center">
     <a href="https://github.com/JessyQuinto">JessyQuinto en GitHub</a>
   </p>
-  <p align="center">Última actualización: 03/05/2025</p>
+  <p align="center">Última actualización: 2025</p>
 </body>
 </html>
