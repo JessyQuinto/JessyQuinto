@@ -17,35 +17,10 @@
     <li>Entre mis intereses personales se encuentran la lectura, los videojuegos, el baloncesto y el desarrollo de software.</li>
   </ul>
 
-  <h3 align="center">Redes profesionales</h3>
+  <h3 align="center">LinkedIn</h3>
   <p align="center">
     <a href="https://www.linkedin.com/in/jessy-quinto-torres-656b36196/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Perfil en LinkedIn"/>
-    </a>
-    <a href="mailto:quintojessy@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico"/>
-    </a>
-    <a href="https://jessyquinto.io/loay-portfolio-main/" target="_blank">
-      <img src="https://img.shields.io/badge/Portafolio-5843BE?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio"/>
-    </a>
-  </p>
-
-  <h3 align="center">Tecnologías y herramientas</h3>
-  <p align="center">
-    <a href="https://dotnet.microsoft.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
-    </a>
-    <a href="https://angular.io/" target="_blank">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-    </a>
-    <a href="https://azure.microsoft.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
     </a>
   </p>
 
